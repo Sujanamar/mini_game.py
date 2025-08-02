@@ -8,5 +8,4 @@ guess = int(input("guess a number between 1 and 10: "))
      printf("Correct!you guessed the numbers:")
 
 else:
-     printf(f"wrong!the correct number was (number):")
-
+     printf(f"right!the correct number was (number):
