@@ -10,3 +10,5 @@ guess = int(input("guess a number between 1 and 10: "))
 else:
      printf(f"wrong!the correct number was (number):")
 
+
+this is python program
